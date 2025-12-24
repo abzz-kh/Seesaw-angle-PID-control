@@ -29,4 +29,4 @@ Design and implement a precise angle-control system (<1° error) for a seesaw me
   - **No-Overshoot mode**
 - Stable performance with angle **error <1°**
 ## 📷 Project Media
-![System Overview](docs/plotting-app.png)
+![System Overview](Docs/plotting-app.png)
