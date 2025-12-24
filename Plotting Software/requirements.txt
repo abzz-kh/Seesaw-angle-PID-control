@@ -1,5 +1,5 @@
 customtkinter library
 serial library
-struct
-threading
-matplotlib
+struct library
+threading library
+matplotlib library
