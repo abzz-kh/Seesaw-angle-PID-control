@@ -30,3 +30,4 @@ Design and implement a precise angle-control system (<1° error) for a seesaw me
 - Stable performance with angle **error <1°**
 ## 📷 Project Media
 ![System Overview](Docs/plotting-app.png)
+(Docs/IMG_20251224_001524.jpg)
